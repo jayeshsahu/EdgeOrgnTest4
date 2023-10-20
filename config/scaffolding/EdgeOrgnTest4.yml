@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeOrgnTest4
+  gitServerName: jayeshsahu
+  gitUrl: https://github.com/jayeshsahu/EdgeOrgnTest4
+  gitUsername: jayeshsahu
+  gitBranch: main
